@@ -140,6 +140,8 @@ pip install opencv-python
 3. Build fast stitching module (required for panorama stitching, need to build as it is C++ module):
 
 ```bash
+NO  cd fast_stitching
+
 cd fast_stitching
 mkdir build
 cd build
