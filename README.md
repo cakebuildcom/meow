@@ -124,6 +124,7 @@ meow is a video processing tool designed to create panoramic videos from two cam
 git clone https://github.com/jakki-dev/meow.git
 ```
 
+```bash
 git clone https://github.com/cakebuildcom/meow.git
 ```
 ```bash
