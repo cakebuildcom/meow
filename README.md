@@ -130,6 +130,13 @@ git clone https://github.com/jakki-dev/meow.git
 pip install -r requirements.txt
 ```
 
+RAN
+```bash
+pip install --upgrade pip
+pip install opencv-python
+```
+
+
 3. Build fast stitching module (required for panorama stitching, need to build as it is C++ module):
 
 ```bash
