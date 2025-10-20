@@ -142,7 +142,7 @@ pip install opencv-python
 ```bash
 NO  cd fast_stitching
 
-cd fast_stitching
+cd stitching
 mkdir build
 cd build
 cmake ..
